@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+
+# Configuración local
+.vscode/
+.idea/
+
+# OS
+.DS_Store
